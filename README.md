@@ -1,0 +1,2 @@
+# Bitcoin-Price-Prediction
+Proje içeriğinde tahmin işlemlerinin gerçekleştirilebilmesi için Facebook  Prophet kullanılmıştır. Kripto para birimlerinin spekülatif yapısı gereği Facebook Prophet  Bitcoin ‘in gelecekteki fiyatlarını doğru bir şekilde tahmin etmede kullanılan bir algoritmadır. Prophet , lineer olmayan eğilimlerin yıllık, haftalık ve günlük değişimlerine uygun olduğu bir katma modele dayanarak zaman serileri verilerini tahmin etmek için kullanılan bir kütüphanedir.
